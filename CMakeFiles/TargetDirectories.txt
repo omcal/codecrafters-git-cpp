@@ -1,3 +1,0 @@
-/home/joi/Workdir/codecrafts/codecrafters-git-cpp/CMakeFiles/server.dir
-/home/joi/Workdir/codecrafts/codecrafters-git-cpp/CMakeFiles/edit_cache.dir
-/home/joi/Workdir/codecrafts/codecrafters-git-cpp/CMakeFiles/rebuild_cache.dir
